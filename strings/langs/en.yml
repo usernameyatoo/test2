@@ -1,13 +1,3 @@
-#
-# Copyright (C) 2021-present by TeamYukki@Github, < https://github.com/TeamYukki >.
-#
-# This file is part of < https://github.com/TeamYukki/YukkiMusicBot > project,
-# and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/TeamYukki/YukkiMusicBot/blob/master/LICENSE >
-#
-# All rights reserved.
-#
-
 name : 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
 
 # General Strings
@@ -85,7 +75,13 @@ admin_34 : "Failed to seek the current stream."
 
 # Start
 start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
-start_2 : "Hello, My name is {0}.\n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, Resso, AppleMusic , Soundcloud etc.\n\nFeel free to add me to your groups."
+start_2 : "๏ ᴛʜɪs ɪs ѕσяα ✘ ᴍᴜsɪᴄ 🥂✨
+
+➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴜꜱɪᴄ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
+
+────────────────
+
+๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs. ✨🥀"
 start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
 start_4 : "{0}'s Owner[{1}] has just joined your chat."
 start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
@@ -247,31 +243,31 @@ stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "🗑 Close"
-CLOSEMENU_BUTTON  : "🗑 Close Menu"
-BACK_BUTTON : "⬅ Back"
-UNBAN_BUTTON : "🗑 Unban Assistant"
+CLOSE_BUTTON  : "Close"
+CLOSEMENU_BUTTON  : "Close Menu"
+BACK_BUTTON : "Back"
+UNBAN_BUTTON : "Unban Assistant"
 
 #Lyrics
 L_B_1 : "🚀 Checkout Lyrics Now"
 
 # Start
-S_B_1 : "🗒 Commands"
+S_B_1 : "• ᴄᴏᴍᴍᴀɴᴅs •"
 S_B_2 : "🔧 Settings"
 S_B_3 : "📨 Support"
 S_B_4 : "📨 Channel"
-S_B_5 : "✚ Add me to your Group"
+S_B_5 : "✨ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ✨"
 S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Bot Owner"
-S_B_8 : "🔎 How to Use? Commands Menu."
+S_B_7 : "✨ ᴍᴀɪɴᴛᴀɪɴᴇʀ ✨"
+S_B_8 : "• ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs •"
 
 #Help 
-H_B_1 : "Admin Commands"
-H_B_2 : "Play Commands"
-H_B_3 : "Bot Commands"
-H_B_4 : "Extra Commands"
+H_B_1 : "• ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs •"
+H_B_2 : "• ᴘʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs •"
+H_B_3 : "• ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs •"
+H_B_4 : "• ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅs •"
 H_B_5 : "Close Menu"
-H_B_6 : "SudoUser Commands"
+H_B_6 : "• sᴜᴅᴏᴜsᴇʀs ᴄᴏᴍᴍᴀɴᴅs •"
 
 #PlayMode
 PM_B_1 : "DirectPlay"
@@ -303,32 +299,28 @@ ST_B_2 : "🎥 Vid Quality"
 ST_B_3 : "🎩 Auth Users"
 ST_B_4 : "📱 Dashboard"
 ST_B_5 : "▶️ Play Mode"
-ST_B_6 : "🏳️‍🌈 Language"
+ST_B_6 : "• ʟᴀɴɢᴜᴀɢᴇ •"
 ST_B_7 : "🔄 Clean Mode"
-ST_B_8 : "{0} LOW AudioQuality"
-ST_B_9 : "{0} MEDIUM AudioQuality"
-ST_B_10 : "{0} HIGH AudioQuality"
-ST_B_11 : "{0} STUDIO AudioQuality"
-ST_B_12 : "{0} SD-360p VideoQuality"
-ST_B_13 : "{0} SD-480p VideoQuality"
-ST_B_14 : "{0} HD-720p VideoQuality"
-ST_B_15 : "{0} FHD-1080p VideoQuality"
-ST_B_16 : "{0} QHD-2k VideoQuality"
-ST_B_17 : "{0} UHD-4k VideoQuality"
-ST_B_18 : "✅ Enabled"
-ST_B_19 : "❌ Disabled"
-ST_B_20 : "👤 Admins"
-ST_B_21 : "👥 Everyone"
-ST_B_22 : "📋 Authorized Users Lists"
-ST_B_23 : "🔎 Search Mode"
-ST_B_24 : "✅ Direct"
-ST_B_25 : "✅ Inline"
-ST_B_26 : "👨‍⚖️ Admin Commands"
-ST_B_27 : "🏘 Group"
-ST_B_28 : "🏷 Channel"
-ST_B_29 : "🫂 Play Type"
-ST_B_30 : "🗑 Command Clean"
-ST_B_31 : "🧑‍🚀 Suggestion Mode"
+ST_B_8 : "{0} Low Quality Audio"
+ST_B_9 : "{0} Medium Quality Audio"
+ST_B_10 : "{0} High Quality Audio"
+ST_B_11 : "{0} Low Quality Video"
+ST_B_12 : "{0} Medium Quality Video"
+ST_B_13 : "{0} High Quality Video"
+ST_B_14 : "✅ Enabled"
+ST_B_15 : "❌ Disabled"
+ST_B_16 : "👤 Admins"
+ST_B_17 : "👥 Everyone"
+ST_B_18 : "📋 Authorized Users Lists"
+ST_B_19 : "🔎 Search Mode"
+ST_B_20 : "✅ Direct"
+ST_B_21 : "✅ Inline"
+ST_B_22 : "👨‍⚖️ Admin Commands"
+ST_B_23 : "🏘 Group"
+ST_B_24 : "🏷 Channel"
+ST_B_25 : "🫂 Play Type"
+ST_B_26 : "🗑 Command Clean"
+ST_B_27 : "🧑‍🚀 Suggestion Mode"
 
 #Song
 SG_B_1 : "↗️ Open Private Chat"
